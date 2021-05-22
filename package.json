@@ -1,9 +1,9 @@
 {
-  "name": "panther-info-api",
+  "name": "rice-info-api",
   "version": "1.0.0",
-  "description": "Serverless API implementation for PantherSwap on-chain data query.",
+  "description": "Serverless API implementation for RiceFarm on-chain data query.",
   "repository": "git@github.com:pantherswap/panther-info-api.git",
-  "author": "PantherSwap",
+  "author": "BobaChef",
   "license": "MIT",
   "scripts": {
     "format:check": "prettier --check '*/**/*.{js,ts}'",
